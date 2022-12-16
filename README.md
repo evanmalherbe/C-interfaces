@@ -1,2 +1,3 @@
 # C-interfaces
-Mosh C# course - Intermediate - Interfaces
+Mosh Hamedani C# Intermediate: Classes, Interfaces and Object-oriented Programming - Interfaces
+Exercise
